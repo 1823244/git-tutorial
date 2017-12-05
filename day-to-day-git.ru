@@ -1441,7 +1441,7 @@ git config --global user.email jsirex@gmail.com
 	<li>Придумывайте новые процессы, которые вам подходят, которые требует проект - скорее всего git сможет вам помочь этого достичь.</li>
 </ul>
 
-<h4>Причемания и апдейты</h4>
+<h4>Примечания и апдейты</h4>
 
 <hh user="gcc"/> рекомендовал посмотреть на <a href="https://code.google.com/p/gitextensions/">Git Extensions</a>.
 <hh user="borNfree"/> подсказал ещё один GUI клиент <a href="http://sourcetreeapp.com/">Source Tree</a>.
